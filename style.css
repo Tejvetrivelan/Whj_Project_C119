@@ -1,0 +1,29 @@
+body
+{
+  color: azure;
+  background-color: cadetblue;
+}
+span
+{
+  font-size: 30px;
+}
+#webcam ,#result
+{
+  border: 2px dotted rgb(25, 104, 22);
+  width: 350px;
+  height: 300px; 
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading
+{
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
